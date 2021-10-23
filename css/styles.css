@@ -4,6 +4,8 @@
     padding-left: 65px;
     color: white;
     background-image: url(../img/welcome.jpg);
+    background-position: center;
+    background-size: cover;
 }
 #services{
   font-family: 'Open Sans',serif;
@@ -11,4 +13,16 @@
     padding-left: 65px;
     color: white;
     background-image: url(../img/services.jpg);
+    background-position: center;
+    background-size: cover;
+}
+footer{
+  text-align: center;
+  font-family: sans-serif;
+}
+footer p{
+  font-size: 95%
+}
+.margin-none{
+  margin: none;
 }
