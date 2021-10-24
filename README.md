@@ -12,7 +12,7 @@ Fiona Maina
 fiona.maina@student.moringaschool.com
 
 
-[![Delani-studio.png](---)](---)
+[![Delani-studio.png](https://i.postimg.cc/7ZPdxjZC/Delani-Studio.jpg)](https://postimg.cc/bsM3gCb8)
 
 ## Technologies used
 
