@@ -16,6 +16,15 @@
     background-position: center center;
     background-size: cover;
 }
+#mouse-click{
+  animation: bounce 3s infinite;
+}
+#mouse-click{
+  padding-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+
 footer{
   text-align: center;
   font-family: sans-serif;
