@@ -29,19 +29,17 @@ fiona.maina@student.moringaschool.com
 
 ### Behavior Driven Development
 
-* Display form for entering date & gender
+1. Display form for entering date & gender
+  * Input: Enter users Name
+  * Input: Enter users Email  
+  * Input: Enter users Message
+  * Output: send message to Delani studio and get a email confirming message is received
+2. Display an error message if Name ,Message and Email is left blank when  submitting
+   * Input:"Empty"
+   * Output: "Name is not valid"
+   * Output: "Email is not valid"
+   * Output: "Message is not valid"
 
-  -Input: Enter users birthdate
-
-  -Input: Enter users gender  
-
-  -Output: Generate Akan name according to the submited date and gender
-
-* Display an error message if date and gender is left blank when submitting
-
-   -Input:"Empty"
-
-   -Output: "Displays error message"
 
 
 ## Development
