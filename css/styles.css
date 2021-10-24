@@ -16,6 +16,9 @@
     background-position: center center;
     background-size: cover;
 }
+#aboutUs{
+  font-family: 'Open Sans',serif;
+}
 #mouse-click{
   animation: bounce 3s infinite;
 }
