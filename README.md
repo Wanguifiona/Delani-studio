@@ -1,6 +1,6 @@
 # DELANI STUDIO
 
-This is a web application for Delani studio that shows the services, products and what Delani does for its colients
+This is a web application for Delani studio that shows the services, products and what Delani does for its users, a portfolio section and form that allows users to communicate with the studio
 
 
 ### Author
@@ -12,7 +12,7 @@ Fiona Maina
 fiona.maina@student.moringaschool.com
 
 
-[![Akan-name.png](https://i.postimg.cc/qRPpDFWr/Whats-App-Image-2021-10-18-at-4-44-53-AM.jpg)](https://postimg.cc/k6yrBTnY)
+[![Delani-studio.png](---)](---)
 
 ## Technologies used
 
