@@ -10,22 +10,9 @@ $(document).ready(function() {
   });
   $("#productManagement").click(function() {
     $("#product-management-showing").toggle();
-    $(".hide-product-management").toggle();
+    $(".hide-product-management-image").toggle();
   });
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
