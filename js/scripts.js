@@ -51,6 +51,7 @@ $(document).ready(function(){
        event.preventDefault()
        statusElm.append("<div>Message is not valid</div>")
 
+      alert("We have received your message. Thank you for reaching out to us")
      }
 
   })
